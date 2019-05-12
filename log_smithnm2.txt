@@ -1,0 +1,13 @@
+9/22: Implemented RegisterFile methods
+9/23: Debugged RegisterFile and implemented ConditionCodes
+
+Lab5
+9/29: Fixed error preventing the file from being read properly
+10/2: Spent time debggin our loader to figure out why our output was incorrect
+10/6: Started working on error checking after getting the file to load properly
+10/8: Added code that successfully catches remaining errors
+
+Lab6
+10/12: Added methods for clock cycles in each of the stages
+10/21:Fixed compilation errors and began working of the fetch stage logic
+
